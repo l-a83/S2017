@@ -1,0 +1,24 @@
+Full Calendar
+
+A full-sized drag & drop event calendar (jQuery plugin).
+
+https://fullcalendar.io/
+
+I found a calendar written in javaScript using the jQuery library. 
+
+Disclaimer:   FullCalendar is great for displaying events, but it 
+isn't a complete solution for event content-management. Beyond dragging 
+an event to a different time/day, you cannot change an event's name or 
+other associated data. It is up to you to add this functionality through 
+FullCalendar's event hooks. 
+
+It looks like how I imagined our interactive calendar would look like,
+but lacks the content-management. So, we will have to see how to implement
+FullCalendar "event hooks". The repository can be found below:
+
+https://github.com/fullcalendar/fullcalendar
+
+I have no experience with javaScript, so I will be using Lyndia.com with my Texas State credentials 
+to learn javaScript.
+
+Goal: Display the full-sized drag & drop event calendar on website. 

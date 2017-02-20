@@ -13,7 +13,7 @@ other associated data. It is up to you to add this functionality through
 FullCalendar's event hooks. 
 
 It looks like how I imagined our interactive calendar would look like,
-but lacks the content-management. So, we will have to see how to implement
+but lacks the content-management. So, we will have to figure how to implement
 FullCalendar "event hooks". The repository can be found below:
 
 https://github.com/fullcalendar/fullcalendar

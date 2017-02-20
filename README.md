@@ -25,4 +25,3 @@ Team Roles: UI, Front End (HTML, CSS,JAVA), Backend(Python)
  
 Stretch Goals: 
 Create complimentary mobile application 
-Color coding for specific chosen days i.e. (busy/free for both parties). 

@@ -1,4 +1,5 @@
 Send Message - RubyRuby
+Found at: https://www.twilio.com/blog/2014/04/add-sms-to-your-web-app-in-4-lines-of-code.html
 
 require 'twilio-ruby'
 @client = Twilio::REST::Client.new '{{ sid }}', '{{ auth_token }}'
